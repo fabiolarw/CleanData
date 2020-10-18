@@ -1,5 +1,5 @@
 # CleanData
-Getting and Cleaning Data Course Project
+"Getting and Cleaning Data" Course Project of the "Data Science Specialization" by Johns Hopkins at Coursera.
 
 This project is based on wearable computing data, specifically on data collected from the accelerometers from the Samsung Galaxy S smartphone by the Machine Learning group at University of California, Irvine.
 
